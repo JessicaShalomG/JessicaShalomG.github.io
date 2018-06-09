@@ -15,3 +15,6 @@ p{
    font-size: 1.3em;
    color: #ff99ff;
 }
+img {
+    border-radius: 8px;
+}
