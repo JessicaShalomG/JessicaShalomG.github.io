@@ -1,11 +1,17 @@
 body{
-  background-color: #ffb3d9;
+  background-image: url("/home/marco/Desktop/JessicaShalomG.github.io/c0e115f223f20ab2634cef622b249476.jpg");
 
 }
 
 h1 {
+  font-size: 3.8em;
   color: #660033;
 }
 h3 {
+  font-size: 1.875em;
   color: #003366;
+}
+p{
+   font-size: 1.3em;
+   color: #ff99ff;
 }
